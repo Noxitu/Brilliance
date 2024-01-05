@@ -1,0 +1,22 @@
+{
+    "bdoubleo": [-485, 114, 1975, "minecraft:hay_block[axis=y]"],
+    "cubfan": [-485, 114, 1976, "minecraft:dripstone_block"],
+    "docm77": [-485, 114, 1977, "minecraft:smoker[facing=west]"],
+    "false": [-485, 114, 1978, "minecraft:birch_log[axis=y]"],
+    "golden": [-485, 114, 1979, "minecraft:raw_gold_block"],
+    "scar": [-485, 114, 1981, "minecraft:beehive[facing=west]"],
+    "grian": [-485, 114, 1982, "minecraft:chiseled_bookshelf[facing=west]"],
+    "hypno": [-485, 114, 1983, "minecraft:bamboo_block[axis=x]"],
+    "ijevin": [-485, 114, 1984, "minecraft:ancient_debris"],
+    "impulse": [-485, 114, 1985, "minecraft:gilded_blackstone"],
+    "iskall": [-486, 113, 1975, "minecraft:end_stone"],
+    "joehills": [-486, 113, 1976, "minecraft:blackstone"],
+    "pearlescent_moon": [-486, 113, 1977, "minecraft:amethyst_block"],
+    "stress": [-486, 113, 1978, "minecraft:pink_glazed_terracotta[facing=west]"],
+    "vintage_beef": [-486, 113, 1979, "minecraft:nether_quartz_ore"],
+    "welsknight": [-486, 113, 1981, "minecraft:calcite"],
+    "xbcrafted": [-486, 113, 1982, "minecraft:crying_obsidian"],
+    "xisuma": [-486, 113, 1983, "minecraft:respawn_anchor"],
+    "zedaph": [-486, 113, 1984, "minecraft:pink_wool"],
+    "zombie_cleo": [-486, 113, 1985, "minecraft:magma_block"]
+}

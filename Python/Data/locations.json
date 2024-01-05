@@ -1,0 +1,142 @@
+{
+    "bdoubleo": {
+        "-area": "-533 48 1973.4 -531 49 1975",
+        "reward": "crown 1",
+        "reward_pos": "-533 47 1974",
+        "egg": "-531 49 1974",
+        "egg_direction": "-x"
+    },
+    "cubfan": {
+        "-area": "-509 19 1970 -508 19.2 1971",
+        "reward": "crown 2",
+        "reward_pos": "-508 18 1969",
+        "egg": "-507 19 1969",
+        "egg_direction": "-x"
+    },
+    "docm77": {
+        "-area": "-553 14 1967 -552 15 1969.5",
+        "reward": "crown 2",
+        "reward_pos": "-553 13 1967",
+        "egg": "-552 15 1967",
+        "egg_direction": "-x"
+    },
+    "false": {
+        "-area": "-520 47 1952 -516 49.5 1957",
+        "reward": "crown 1",
+        "reward_pos": "-520 46 1956",
+        "egg": "-519 48 1956",
+        "egg_direction": "-z"
+    },
+    "golden": {
+        "-area": "-644.3 -8 1914.5 -642 -6.5 1916.7",
+        "reward": "crown 3",
+        "reward_pos": "-643 -9 1915",
+        "egg": "-642 -8 1915",
+        "egg_direction": "-x"
+    },
+    "scar": {
+        "-area": "-609 3 1883 -606 4 1884.2",
+        "reward": "crown 3",
+        "reward_pos": "-606 4 1884",
+        "egg": "-606 4 1883",
+        "egg_direction": "-x"
+    },
+    "grian": {
+        "area": "-578.3 -3 1904 -577 -2 1907",
+        "reward": "crown 3",
+        "reward_pos": "-576 -2 1906",
+        "egg": "-576 -2 1905",
+        "egg_direction": "-x"
+    },
+    "hypno": {
+        "-area": "-596.1 11 2034 -595 12.5 2037",
+        "reward": "crown 2",
+        "reward_pos": "-597 12 2036",
+        "egg": "-596 13 2037",
+        "egg_direction": "-z"
+    },
+    "ijevin": {
+        "-area": "-566 12 1936 -562 13 1937.2",
+        "reward": "crown 2",
+        "reward_pos": "-563 11 1936",
+        "egg": "-562 13 1936",
+        "egg_direction": "-x"
+    },
+    "impulse": {
+        "-area": "-540 37 2004 -537.2 37.5 2006.5",
+        "reward": "crown 1",
+        "reward_pos": "-539 36 2004",
+        "egg": "-540 37 2004",
+        "egg_direction": "+x"
+    },
+    "iskall": {
+        "-area": "-539.5 47 1970 -534 48.5 1975",
+        "reward": "crown 1",
+        "reward_pos": "-536 46 1972",
+        "egg": "-535 48 1972",
+        "egg_direction": "-x"
+    },
+    "joehills": {
+        "-area": "-543 17.5 1984 -540 19 1987",
+        "reward": "crown 2",
+        "reward_pos": "-541 19 1983",
+        "egg": "-542 19 1983",
+        "egg_direction": "+z"
+    },
+    "pearlescent_moon": {
+        "-area": "-621.5 -6 1926.2 -616.5 -6 1929",
+        "reward": "crown 3",
+        "reward_pos": "-622 -6 1928",
+        "egg": "-621 -6 1928",
+        "egg_direction": "-z"
+    },
+    "stress": {
+        "-area": "-554 50 2026 -550.8 52 2030",
+        "reward": "crown 1",
+        "reward_pos": "-553 49 2027",
+        "egg": "-554 51 2027",
+        "egg_direction": "0"
+    },
+    "vintage_beef": {
+        "-area": "-540 19 2009 -538 20 2010",
+        "reward": "crown 2",
+        "reward_pos": "-540 20 2011",
+        "egg": "-540 20 2010",
+        "egg_direction": "-z"
+    },
+    "welsknight": {
+        "-area": "-629 48 1999 -625 49 2002",
+        "reward": "crown 1",
+        "reward_pos": "-627 47 2000",
+        "egg": "-628 49 2000",
+        "egg_direction": "0"
+    },
+    "xbcrafted": {
+        "-area": "-528 14 1931 -525 15 1933",
+        "reward": "crown 2",
+        "reward_pos": "-527 13 1932",
+        "egg": "-526 15 1931",
+        "egg_direction": "-x"
+    },
+    "xisuma": {
+        "-area": "-657 4 1912 -655 4 1914",
+        "reward": "crown 3",
+        "reward_pos": "-657 3 1913",
+        "egg": "-657 5 1914",
+        "egg_direction": "-z"
+    },
+    "zedaph": {
+        "-area": "-506 46 2015 -501 48 2019",
+        "reward": "crown 1",
+        "reward_pos": "-504 45 2017",
+        "egg": "-504 47 2018",
+        "egg_direction": "0"
+    },
+    "zombie_cleo": {
+        "-area": "-632 2.4 1920 -631 2.6 1921",
+        "reward": "crown 3",
+        "reward_pos": "-633 3 1923",
+        "egg": "-632 4 1925",
+        "egg_direction": "cleo"
+    }
+}
